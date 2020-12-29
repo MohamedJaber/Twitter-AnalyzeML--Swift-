@@ -1,7 +1,7 @@
 
 # Twitter Analyzer
 
-## An app that can analyze the name of the company, trend word or whatever then give a reaction about how the people feel about this company or this trending word.
+## An app that can analyze the name of the company, trend word, or whatever then gives a reaction about how the people feel about this company or this trending word.
 
 * I bring 100 tweets from the twitter to analyze.
 * Used CoreML to analyze tweets.
